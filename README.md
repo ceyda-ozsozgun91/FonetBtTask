@@ -20,6 +20,7 @@ Bu proje, Java ve Selenium kullanarak TestNG ve Cucumber framework ile Gherkin d
 
 4. **Bağımlılıkları Kurun:**
    - Proje dizininde `mvn install` komutunu çalıştırarak Maven bağımlılıklarını yükleyin.
+   - src/main/java/driver klasöründe geckoDriver.exe'nin uzantısını güncel haliyle değiştirin.
 
 ## Kullanım Talimatları
 
